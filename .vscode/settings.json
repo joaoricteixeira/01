@@ -1,0 +1,9 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/workspaces/01",
+            "binaryPath": "/workspaces/01/kilo",
+            "binaryArgs": []
+        }
+    ]
+}
